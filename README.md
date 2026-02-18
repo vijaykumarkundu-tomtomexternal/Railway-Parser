@@ -14,3 +14,6 @@ python -m railway_parser.parser data/sample1.dxf
 
 ## Run Tests
 pytest
+
+## Requirement.txt
+pip install -r requirements.txt
