@@ -1,0 +1,5 @@
+type,layer,x1,y1,x2,y2,x,y
+LINE,TRACK,0.0,0.0,100.0,0.0,,
+LINE,TRACK,100.0,0.0,200.0,0.0,,
+POINT,SIGNALS,,,,,50.0,0.0
+POINT,SIGNALS,,,,,150.0,0.0

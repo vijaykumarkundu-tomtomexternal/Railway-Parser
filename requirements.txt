@@ -1,0 +1,4 @@
+ezdxf
+pandas
+pytest
+numpy
